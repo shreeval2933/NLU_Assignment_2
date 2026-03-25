@@ -1,4 +1,4 @@
-# 📂 Project / Assignment
+# 📂 Assignment
 
 This repository contains multiple problems. Each problem is organized in a separate folder and has its own README file with detailed instructions.
 
