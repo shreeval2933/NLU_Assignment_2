@@ -1,0 +1,901 @@
+Model,Name,Realism Score,Failure Mode,In Training
+Vanilla RNN,Naida,1.0,VALID,False
+Vanilla RNN,Banesh,1.0,VALID,False
+Vanilla RNN,Damesh,1.0,VALID,False
+Vanilla RNN,Nandaf,1.0,VALID,False
+Vanilla RNN,Bhitma,1.0,VALID,False
+Vanilla RNN,Dwanabha,1.0,VALID,False
+Vanilla RNN,Pamal,1.0,VALID,False
+Vanilla RNN,Sanem,1.0,VALID,False
+Vanilla RNN,Alinek,1.0,VALID,False
+Vanilla RNN,Anash,1.0,VALID,False
+Vanilla RNN,Netadraj,1.0,VALID,False
+Vanilla RNN,Smicha,1.0,VALID,False
+Vanilla RNN,Chayendran,1.0,VALID,False
+Vanilla RNN,Ashiep,1.0,VALID,False
+Vanilla RNN,Manesha,1.0,VALID,False
+Vanilla RNN,Amzha,1.0,VALID,False
+Vanilla RNN,Adman,1.0,VALID,False
+Vanilla RNN,Bardhay,1.0,VALID,False
+Vanilla RNN,Banche,1.0,VALID,False
+Vanilla RNN,Limal,1.0,VALID,False
+Vanilla RNN,Bhitit,1.0,VALID,False
+Vanilla RNN,Kankan,1.0,VALID,False
+Vanilla RNN,Nagha,1.0,VALID,False
+Vanilla RNN,Bamdha,1.0,VALID,False
+Vanilla RNN,Zandal,1.0,VALID,False
+Vanilla RNN,Katha,1.0,VALID,False
+Vanilla RNN,Chatesh,1.0,VALID,False
+Vanilla RNN,Nitesh,1.0,VALID,True
+Vanilla RNN,Aaras,1.0,VALID,False
+Vanilla RNN,Nanda,1.0,VALID,False
+Vanilla RNN,Bimev,1.0,VALID,False
+Vanilla RNN,Ratha,1.0,VALID,False
+Vanilla RNN,Danashan,1.0,VALID,False
+Vanilla RNN,Arsha,1.0,VALID,False
+Vanilla RNN,Anoh,1.0,VALID,False
+Vanilla RNN,Amajesh,1.0,VALID,False
+Vanilla RNN,Anal,1.0,VALID,False
+Vanilla RNN,Arasha,1.0,VALID,False
+Vanilla RNN,Binwana,1.0,VALID,False
+Vanilla RNN,Kjavan,1.0,VALID,False
+Vanilla RNN,Shana,1.0,VALID,False
+Vanilla RNN,Amlat,1.0,VALID,False
+Vanilla RNN,Payesh,1.0,VALID,False
+Vanilla RNN,Batga,1.0,VALID,False
+Vanilla RNN,Pajch,1.0,VALID,False
+Vanilla RNN,Bahesh,1.0,VALID,False
+Vanilla RNN,Nanel,1.0,VALID,False
+Vanilla RNN,Maranja,1.0,VALID,False
+Vanilla RNN,Kohekan,1.0,VALID,False
+Vanilla RNN,Kayir,1.0,VALID,False
+Vanilla RNN,Danwam,1.0,VALID,False
+Vanilla RNN,Kandar,1.0,VALID,False
+Vanilla RNN,Darvai,1.0,VALID,False
+Vanilla RNN,Laoesh,1.0,VALID,False
+Vanilla RNN,Maresha,1.0,VALID,False
+Vanilla RNN,Bhalsha,1.0,VALID,False
+Vanilla RNN,Vamha,1.0,VALID,False
+Vanilla RNN,Nantar,1.0,VALID,False
+Vanilla RNN,Anwan,1.0,VALID,False
+Vanilla RNN,Nahesh,1.0,VALID,False
+Vanilla RNN,Amha,1.0,VALID,False
+Vanilla RNN,Bamesh,1.0,VALID,False
+Vanilla RNN,Amam,1.0,VALID,False
+Vanilla RNN,Dhayusha,1.0,VALID,False
+Vanilla RNN,Xanisha,1.0,VALID,False
+Vanilla RNN,Amlar,1.0,VALID,False
+Vanilla RNN,Nagra,1.0,VALID,False
+Vanilla RNN,Batam,1.0,VALID,False
+Vanilla RNN,Najiudha,1.0,VALID,False
+Vanilla RNN,Panin,1.0,VALID,False
+Vanilla RNN,Burendha,1.0,VALID,False
+Vanilla RNN,Ancha,1.0,VALID,False
+Vanilla RNN,Bivansha,1.0,VALID,False
+Vanilla RNN,Kanha,1.0,VALID,True
+Vanilla RNN,Adyan,1.0,VALID,False
+Vanilla RNN,Bahana,1.0,VALID,False
+Vanilla RNN,Mabha,1.0,VALID,False
+Vanilla RNN,Arunaf,1.0,VALID,False
+Vanilla RNN,Bastgaji,1.0,VALID,False
+Vanilla RNN,Asha,1.0,VALID,True
+Vanilla RNN,Kamesh,1.0,VALID,False
+Vanilla RNN,Biman,1.0,VALID,False
+Vanilla RNN,Mayesh,1.0,VALID,False
+Vanilla RNN,Panmay,1.0,VALID,False
+Vanilla RNN,Rayesbha,1.0,VALID,False
+Vanilla RNN,Ashin,1.0,VALID,False
+Vanilla RNN,Samesh,1.0,VALID,False
+Vanilla RNN,Dhanda,1.0,VALID,False
+Vanilla RNN,Pankarendra,1.0,VALID,False
+Vanilla RNN,Amrun,1.0,VALID,False
+Vanilla RNN,Amchay,1.0,VALID,False
+Vanilla RNN,Ranika,1.0,VALID,False
+Vanilla RNN,Banchalesh,1.0,VALID,False
+Vanilla RNN,Pana,1.0,VALID,False
+Vanilla RNN,Kanesh,1.0,VALID,False
+Vanilla RNN,Panal,1.0,VALID,False
+Vanilla RNN,Kanal,1.0,VALID,False
+Vanilla RNN,Puhan,1.0,VALID,False
+Vanilla RNN,Mithal,1.0,VALID,False
+Vanilla RNN,Kamta,1.0,VALID,False
+Vanilla RNN,Unohap,1.0,VALID,False
+Vanilla RNN,Baryala,1.0,VALID,False
+Vanilla RNN,Bhalesh,1.0,VALID,False
+Vanilla RNN,Amrishar,1.0,VALID,False
+Vanilla RNN,Kaga,1.0,VALID,False
+Vanilla RNN,Ashar,1.0,VALID,False
+Vanilla RNN,Pax,1.0,VALID,False
+Vanilla RNN,Aasitar,1.0,VALID,False
+Vanilla RNN,Patek,1.0,VALID,False
+Vanilla RNN,Bamcha,1.0,VALID,False
+Vanilla RNN,Nanesh,1.0,VALID,False
+Vanilla RNN,Karan,1.0,VALID,True
+Vanilla RNN,Nates,1.0,VALID,False
+Vanilla RNN,Danuram,1.0,VALID,False
+Vanilla RNN,Pumesh,1.0,VALID,False
+Vanilla RNN,Kamosh,1.0,VALID,False
+Vanilla RNN,Navetha,1.0,VALID,False
+Vanilla RNN,Maresha,1.0,VALID,False
+Vanilla RNN,Kamuha,1.0,VALID,False
+Vanilla RNN,Amatua,1.0,VALID,False
+Vanilla RNN,Adchrit,0.75,CONSONANT_CLUSTER,False
+Vanilla RNN,Litil,1.0,VALID,False
+Vanilla RNN,Bonan,1.0,VALID,False
+Vanilla RNN,Panesh,1.0,VALID,False
+Vanilla RNN,Paheepmx,1.0,VALID,False
+Vanilla RNN,Nanka,1.0,VALID,False
+Vanilla RNN,Anha,1.0,VALID,False
+Vanilla RNN,Lareshha,1.0,VALID,False
+Vanilla RNN,Jaipat,1.0,VALID,False
+Vanilla RNN,Kansha,1.0,VALID,False
+Vanilla RNN,Aatma,1.0,VALID,False
+Vanilla RNN,Kanan,1.0,VALID,False
+Vanilla RNN,Bhan,1.0,VALID,False
+Vanilla RNN,Aaresh,1.0,VALID,False
+Vanilla RNN,Asha,1.0,VALID,True
+Vanilla RNN,Katu,1.0,VALID,False
+Vanilla RNN,Kathan,1.0,VALID,False
+Vanilla RNN,Bhanda,1.0,VALID,False
+Vanilla RNN,Saresh,1.0,VALID,False
+Vanilla RNN,Bhatesh,1.0,VALID,False
+Vanilla RNN,Jagej,1.0,VALID,False
+Vanilla RNN,Bhadish,1.0,VALID,False
+Vanilla RNN,Patm,1.0,VALID,False
+Vanilla RNN,Nanyat,1.0,VALID,False
+Vanilla RNN,Banep,1.0,VALID,False
+Vanilla RNN,Mamesh,1.0,VALID,False
+Vanilla RNN,Bamvaa,1.0,VALID,False
+Vanilla RNN,Uamesh,1.0,VALID,False
+Vanilla RNN,Namya,1.0,VALID,False
+Vanilla RNN,Uargar,1.0,VALID,False
+Vanilla RNN,Kachik,1.0,VALID,False
+Vanilla RNN,Nanesh,1.0,VALID,False
+Vanilla RNN,Anchi,1.0,VALID,False
+Vanilla RNN,Pameshd,1.0,VALID,False
+Vanilla RNN,Bitan,1.0,VALID,False
+Vanilla RNN,Nahesh,1.0,VALID,False
+Vanilla RNN,Jrau,1.0,VALID,False
+Vanilla RNN,Parkan,1.0,VALID,False
+Vanilla RNN,Loma,1.0,VALID,False
+Vanilla RNN,Baska,1.0,VALID,False
+Vanilla RNN,Panesh,1.0,VALID,False
+Vanilla RNN,Mshak,1.0,VALID,False
+Vanilla RNN,Banva,1.0,VALID,False
+Vanilla RNN,Kagesh,1.0,VALID,False
+Vanilla RNN,Arindunan,1.0,VALID,False
+Vanilla RNN,Dinrat,1.0,VALID,False
+Vanilla RNN,Abha,1.0,VALID,False
+Vanilla RNN,Khrat,1.0,VALID,False
+Vanilla RNN,Shavmal,1.0,VALID,False
+Vanilla RNN,Shan,1.0,VALID,False
+Vanilla RNN,Anirdut,1.0,VALID,False
+Vanilla RNN,Baminath,1.0,VALID,False
+Vanilla RNN,Bhanbha,1.0,VALID,False
+Vanilla RNN,Balesh,1.0,VALID,False
+Vanilla RNN,Agicha,1.0,VALID,False
+Vanilla RNN,Namesh,1.0,VALID,False
+Vanilla RNN,Majesh,1.0,VALID,False
+Vanilla RNN,Laresha,1.0,VALID,False
+Vanilla RNN,Chesha,1.0,VALID,False
+Vanilla RNN,Mayan,1.0,VALID,False
+Vanilla RNN,Bhansa,1.0,VALID,False
+Vanilla RNN,Jagesh,1.0,VALID,False
+Vanilla RNN,Aman,1.0,VALID,True
+Vanilla RNN,Ativdaral,1.0,VALID,False
+Vanilla RNN,Bamesh,1.0,VALID,False
+Vanilla RNN,Umadi,1.0,VALID,False
+Vanilla RNN,Unel,1.0,VALID,False
+Vanilla RNN,Bijesh,1.0,VALID,False
+Vanilla RNN,Nagojas,1.0,VALID,False
+Vanilla RNN,Anwika,1.0,VALID,False
+Vanilla RNN,Atul,1.0,VALID,True
+Vanilla RNN,Ajadajesh,1.0,VALID,False
+Vanilla RNN,Kimish,1.0,VALID,False
+Vanilla RNN,Bamesh,1.0,VALID,False
+Vanilla RNN,Drap,1.0,VALID,False
+Vanilla RNN,Pammam,1.0,VALID,False
+Vanilla RNN,Bhuval,1.0,VALID,False
+Vanilla RNN,Kagut,1.0,VALID,False
+Vanilla RNN,Kinal,1.0,VALID,False
+Vanilla RNN,Najesha,1.0,VALID,False
+Vanilla RNN,Rargatut,1.0,VALID,False
+Vanilla RNN,Bunan,1.0,VALID,False
+Vanilla RNN,Sunona,1.0,VALID,False
+Vanilla RNN,Pahania,1.0,VALID,False
+Vanilla RNN,Anrata,1.0,VALID,False
+Vanilla RNN,Baman,1.0,VALID,False
+Vanilla RNN,Ahkay,1.0,VALID,False
+Vanilla RNN,Pinatesh,1.0,VALID,False
+Vanilla RNN,Kital,1.0,VALID,False
+Vanilla RNN,Dargan,1.0,VALID,False
+Vanilla RNN,Nanch,1.0,VALID,False
+Vanilla RNN,Jamsha,1.0,VALID,False
+Vanilla RNN,Kagyae,1.0,VALID,False
+Vanilla RNN,Anya,1.0,VALID,False
+Vanilla RNN,Anti,1.0,VALID,False
+Vanilla RNN,Amjata,1.0,VALID,False
+Vanilla RNN,Baresh,1.0,VALID,False
+Vanilla RNN,Athar,1.0,VALID,False
+Vanilla RNN,Pijyhan,1.0,VALID,False
+Vanilla RNN,Aman,1.0,VALID,True
+Vanilla RNN,Hagunan,1.0,VALID,False
+Vanilla RNN,Pagchay,1.0,VALID,False
+Vanilla RNN,Tunap,1.0,VALID,False
+Vanilla RNN,Bamvinat,1.0,VALID,False
+Vanilla RNN,Camran,1.0,VALID,False
+Vanilla RNN,Nansha,1.0,VALID,False
+Vanilla RNN,Kanita,1.0,VALID,False
+Vanilla RNN,Batao,1.0,VALID,False
+Vanilla RNN,Anima,1.0,VALID,False
+Vanilla RNN,Pamesh,1.0,VALID,False
+Vanilla RNN,Kalesh,1.0,VALID,False
+Vanilla RNN,Kunisha,1.0,VALID,False
+Vanilla RNN,Panwa,1.0,VALID,False
+Vanilla RNN,Agwana,1.0,VALID,False
+Vanilla RNN,Maresha,1.0,VALID,False
+Vanilla RNN,Amatrar,1.0,VALID,False
+Vanilla RNN,Ancharesh,1.0,VALID,False
+Vanilla RNN,Danashath,1.0,VALID,False
+Vanilla RNN,Kujesh,1.0,VALID,False
+Vanilla RNN,Aruvan,1.0,VALID,False
+Vanilla RNN,Panesh,1.0,VALID,False
+Vanilla RNN,Bemaj,1.0,VALID,False
+Vanilla RNN,Kuniran,1.0,VALID,False
+Vanilla RNN,Bajesh,1.0,VALID,False
+Vanilla RNN,Bivyan,1.0,VALID,False
+Vanilla RNN,Bitesh,1.0,VALID,False
+Vanilla RNN,Bwankra,1.0,VALID,False
+Vanilla RNN,Ashwayan,1.0,VALID,False
+Vanilla RNN,Ditesh,1.0,VALID,False
+Vanilla RNN,Ranesh,1.0,VALID,False
+Vanilla RNN,Panesh,1.0,VALID,False
+Vanilla RNN,Prapesh,1.0,VALID,False
+Vanilla RNN,Jalan,1.0,VALID,False
+Vanilla RNN,Ganesh,1.0,VALID,True
+Vanilla RNN,Kamdit,1.0,VALID,False
+Vanilla RNN,Manudhfan,1.0,VALID,False
+Vanilla RNN,Kanvig,1.0,VALID,False
+Vanilla RNN,Aran,1.0,VALID,False
+Vanilla RNN,Nalla,1.0,VALID,False
+Vanilla RNN,Amisha,1.0,VALID,True
+Vanilla RNN,Vatikar,1.0,VALID,False
+Vanilla RNN,Shitesh,1.0,VALID,False
+Vanilla RNN,Dhubhivat,1.0,VALID,False
+Vanilla RNN,Dmikan,1.0,VALID,False
+Vanilla RNN,Marendhal,1.0,VALID,False
+Vanilla RNN,Namish,1.0,VALID,False
+Vanilla RNN,Baresh,1.0,VALID,False
+Vanilla RNN,Dahusra,1.0,VALID,False
+Vanilla RNN,Abhan,1.0,VALID,False
+Vanilla RNN,Abhasha,1.0,VALID,False
+Vanilla RNN,Panm,1.0,VALID,False
+Vanilla RNN,Bhuvesh,1.0,VALID,False
+Vanilla RNN,Andha,1.0,VALID,False
+Vanilla RNN,Vabut,1.0,VALID,False
+Vanilla RNN,Bamish,1.0,VALID,False
+Vanilla RNN,Nayay,1.0,VALID,False
+Vanilla RNN,Amaj,1.0,VALID,False
+Vanilla RNN,Nahesha,1.0,VALID,False
+Vanilla RNN,Uaihyam,1.0,VALID,False
+Vanilla RNN,Ahish,1.0,VALID,False
+Vanilla RNN,Am,0.75,TOO_SHORT,False
+Vanilla RNN,Anvan,1.0,VALID,False
+Vanilla RNN,Anma,1.0,VALID,False
+Vanilla RNN,Lavrad,1.0,VALID,False
+Vanilla RNN,Pandaeendha,1.0,VALID,False
+Vanilla RNN,Kam,1.0,VALID,False
+Vanilla RNN,Pimyua,1.0,VALID,False
+Vanilla RNN,Jarek,1.0,VALID,False
+Vanilla RNN,Drajat,1.0,VALID,False
+Vanilla RNN,Panosha,1.0,VALID,False
+Vanilla RNN,Ahasesh,1.0,VALID,False
+Vanilla RNN,Ajag,1.0,VALID,False
+Vanilla RNN,Dahu,1.0,VALID,False
+Vanilla RNN,Ajashya,1.0,VALID,False
+Vanilla RNN,Putam,1.0,VALID,False
+Vanilla RNN,Amuni,1.0,VALID,False
+Vanilla RNN,Magendrat,1.0,VALID,False
+Vanilla RNN,Jagvanta,1.0,VALID,False
+Vanilla RNN,Bhavesha,1.0,VALID,False
+Vanilla RNN,Paresha,1.0,VALID,False
+Bidirectional LSTM,Apoorv,1.0,VALID,True
+Bidirectional LSTM,Ravindra,1.0,VALID,True
+Bidirectional LSTM,Shreya,1.0,VALID,True
+Bidirectional LSTM,Ashish,1.0,VALID,True
+Bidirectional LSTM,Vrindha,1.0,VALID,False
+Bidirectional LSTM,Aarush,1.0,VALID,True
+Bidirectional LSTM,Nikhita,1.0,VALID,False
+Bidirectional LSTM,Anila,1.0,VALID,True
+Bidirectional LSTM,Arunit,1.0,VALID,True
+Bidirectional LSTM,Diti,1.0,VALID,True
+Bidirectional LSTM,Babu,1.0,VALID,True
+Bidirectional LSTM,Anarudhana,1.0,VALID,False
+Bidirectional LSTM,Arya,1.0,VALID,True
+Bidirectional LSTM,Aanjali,1.0,VALID,False
+Bidirectional LSTM,Sugato,1.0,VALID,True
+Bidirectional LSTM,Lata,1.0,VALID,True
+Bidirectional LSTM,Hakuna,1.0,VALID,False
+Bidirectional LSTM,Ramanijan,1.0,VALID,False
+Bidirectional LSTM,Nitin,1.0,VALID,True
+Bidirectional LSTM,Ambuj,1.0,VALID,True
+Bidirectional LSTM,Afnita,1.0,VALID,False
+Bidirectional LSTM,Lekha,1.0,VALID,True
+Bidirectional LSTM,Harish,1.0,VALID,True
+Bidirectional LSTM,Gopal,1.0,VALID,True
+Bidirectional LSTM,Amitabh,1.0,VALID,True
+Bidirectional LSTM,Aaradhana,1.0,VALID,True
+Bidirectional LSTM,Aatik,1.0,VALID,False
+Bidirectional LSTM,Apradhesh,1.0,VALID,False
+Bidirectional LSTM,Nitin,1.0,VALID,True
+Bidirectional LSTM,Usha,1.0,VALID,True
+Bidirectional LSTM,Ajay,1.0,VALID,True
+Bidirectional LSTM,Ritesh,1.0,VALID,True
+Bidirectional LSTM,Sudhil,1.0,VALID,False
+Bidirectional LSTM,Srishmi,1.0,VALID,False
+Bidirectional LSTM,Kantilika,1.0,VALID,False
+Bidirectional LSTM,Vasha,1.0,VALID,False
+Bidirectional LSTM,Ahir,1.0,VALID,True
+Bidirectional LSTM,Prashant,1.0,VALID,False
+Bidirectional LSTM,Ekta,1.0,VALID,True
+Bidirectional LSTM,Aagam,1.0,VALID,True
+Bidirectional LSTM,Anshika,1.0,VALID,True
+Bidirectional LSTM,Lhadianath,1.0,VALID,False
+Bidirectional LSTM,Tindrajubhan,1.0,VALID,False
+Bidirectional LSTM,Smita,1.0,VALID,True
+Bidirectional LSTM,Uttam,1.0,VALID,True
+Bidirectional LSTM,Chintar,1.0,VALID,False
+Bidirectional LSTM,Amolesh,1.0,VALID,False
+Bidirectional LSTM,Aarav,1.0,VALID,True
+Bidirectional LSTM,Rthikaran,1.0,VALID,False
+Bidirectional LSTM,Bala,1.0,VALID,False
+Bidirectional LSTM,Atasi,1.0,VALID,True
+Bidirectional LSTM,Soumitra,1.0,VALID,True
+Bidirectional LSTM,Navnith,1.0,VALID,False
+Bidirectional LSTM,Bhavika,1.0,VALID,True
+Bidirectional LSTM,Devyani,1.0,VALID,True
+Bidirectional LSTM,Nikant,1.0,VALID,False
+Bidirectional LSTM,Aashi,1.0,VALID,True
+Bidirectional LSTM,Bakula,1.0,VALID,True
+Bidirectional LSTM,Tanya,1.0,VALID,False
+Bidirectional LSTM,Atal,1.0,VALID,True
+Bidirectional LSTM,Nagesh,1.0,VALID,True
+Bidirectional LSTM,Dinkar,1.0,VALID,True
+Bidirectional LSTM,Ashmi,1.0,VALID,True
+Bidirectional LSTM,Anoop,1.0,VALID,True
+Bidirectional LSTM,Aakansh,1.0,VALID,False
+Bidirectional LSTM,Aditi,1.0,VALID,True
+Bidirectional LSTM,Sonal,1.0,VALID,True
+Bidirectional LSTM,Suryakant,1.0,VALID,True
+Bidirectional LSTM,Mukul,1.0,VALID,True
+Bidirectional LSTM,Ganga,1.0,VALID,True
+Bidirectional LSTM,Shrikanth,1.0,VALID,False
+Bidirectional LSTM,Sojpratika,1.0,VALID,False
+Bidirectional LSTM,Prativa,1.0,VALID,True
+Bidirectional LSTM,Anirudh,1.0,VALID,True
+Bidirectional LSTM,Aryan,1.0,VALID,True
+Bidirectional LSTM,Ranaj,1.0,VALID,False
+Bidirectional LSTM,Manoj,1.0,VALID,True
+Bidirectional LSTM,Anirudh,1.0,VALID,True
+Bidirectional LSTM,Aayush,1.0,VALID,True
+Bidirectional LSTM,Jagrati,1.0,VALID,True
+Bidirectional LSTM,Spreya,1.0,VALID,False
+Bidirectional LSTM,Jitesh,1.0,VALID,True
+Bidirectional LSTM,Abhi,1.0,VALID,True
+Bidirectional LSTM,Aveeha,1.0,VALID,False
+Bidirectional LSTM,Balam,1.0,VALID,False
+Bidirectional LSTM,Ashamanjan,1.0,VALID,False
+Bidirectional LSTM,Mnanag,1.0,VALID,False
+Bidirectional LSTM,Pradip,1.0,VALID,True
+Bidirectional LSTM,Vinayza,1.0,VALID,False
+Bidirectional LSTM,Amol,1.0,VALID,True
+Bidirectional LSTM,Aarka,1.0,VALID,False
+Bidirectional LSTM,Vibha,1.0,VALID,True
+Bidirectional LSTM,Radhana,1.0,VALID,False
+Bidirectional LSTM,Prasdohchan,1.0,VALID,False
+Bidirectional LSTM,Jashankav,1.0,VALID,False
+Bidirectional LSTM,Prayash,1.0,VALID,False
+Bidirectional LSTM,Gatha,1.0,VALID,True
+Bidirectional LSTM,Niral,1.0,VALID,False
+Bidirectional LSTM,Manav,1.0,VALID,True
+Bidirectional LSTM,Yogita,1.0,VALID,True
+Bidirectional LSTM,Brindha,1.0,VALID,True
+Bidirectional LSTM,Swamokesh,1.0,VALID,False
+Bidirectional LSTM,Architha,1.0,VALID,True
+Bidirectional LSTM,Rajat,1.0,VALID,True
+Bidirectional LSTM,Anand,1.0,VALID,True
+Bidirectional LSTM,Anita,1.0,VALID,True
+Bidirectional LSTM,Deepaq,1.0,VALID,False
+Bidirectional LSTM,Shekhar,1.0,VALID,True
+Bidirectional LSTM,Buddhadev,1.0,VALID,True
+Bidirectional LSTM,Tarup,1.0,VALID,False
+Bidirectional LSTM,Brindha,1.0,VALID,True
+Bidirectional LSTM,Ahhilya,1.0,VALID,False
+Bidirectional LSTM,Akshat,1.0,VALID,True
+Bidirectional LSTM,Aarush,1.0,VALID,True
+Bidirectional LSTM,Asmim,1.0,VALID,False
+Bidirectional LSTM,Faloni,1.0,VALID,True
+Bidirectional LSTM,Bhakti,1.0,VALID,True
+Bidirectional LSTM,Jagmohan,1.0,VALID,True
+Bidirectional LSTM,Aurya,1.0,VALID,False
+Bidirectional LSTM,Rajeldesh,1.0,VALID,False
+Bidirectional LSTM,Binay,1.0,VALID,True
+Bidirectional LSTM,Sohan,1.0,VALID,True
+Bidirectional LSTM,Ayant,1.0,VALID,False
+Bidirectional LSTM,Sarika,1.0,VALID,True
+Bidirectional LSTM,Vipil,1.0,VALID,False
+Bidirectional LSTM,Madhukar,1.0,VALID,True
+Bidirectional LSTM,Sogam,1.0,VALID,False
+Bidirectional LSTM,Aditya,1.0,VALID,True
+Bidirectional LSTM,Hwumant,1.0,VALID,False
+Bidirectional LSTM,Druthi,1.0,VALID,True
+Bidirectional LSTM,Arpit,1.0,VALID,True
+Bidirectional LSTM,Gurmeet,1.0,VALID,True
+Bidirectional LSTM,Avdith,1.0,VALID,False
+Bidirectional LSTM,Dhruva,1.0,VALID,True
+Bidirectional LSTM,Prativa,1.0,VALID,True
+Bidirectional LSTM,Anupam,1.0,VALID,True
+Bidirectional LSTM,Aashi,1.0,VALID,True
+Bidirectional LSTM,Bala,1.0,VALID,False
+Bidirectional LSTM,Ananya,1.0,VALID,True
+Bidirectional LSTM,Rajarshi,1.0,VALID,True
+Bidirectional LSTM,Dhiri,1.0,VALID,False
+Bidirectional LSTM,Priyanka,1.0,VALID,True
+Bidirectional LSTM,Abhishek,1.0,VALID,True
+Bidirectional LSTM,Nibhil,1.0,VALID,False
+Bidirectional LSTM,Vasudha,1.0,VALID,True
+Bidirectional LSTM,Vikram,1.0,VALID,True
+Bidirectional LSTM,Gopal,1.0,VALID,True
+Bidirectional LSTM,Kamla,1.0,VALID,True
+Bidirectional LSTM,Anant,1.0,VALID,True
+Bidirectional LSTM,Avipal,1.0,VALID,False
+Bidirectional LSTM,Manan,1.0,VALID,True
+Bidirectional LSTM,Anisha,1.0,VALID,True
+Bidirectional LSTM,Ankita,1.0,VALID,True
+Bidirectional LSTM,Brindha,1.0,VALID,True
+Bidirectional LSTM,Avni,1.0,VALID,True
+Bidirectional LSTM,Aabha,1.0,VALID,True
+Bidirectional LSTM,Niraj,1.0,VALID,True
+Bidirectional LSTM,Anup,1.0,VALID,True
+Bidirectional LSTM,Anirudh,1.0,VALID,True
+Bidirectional LSTM,Harshit,1.0,VALID,True
+Bidirectional LSTM,Akash,1.0,VALID,True
+Bidirectional LSTM,Anup,1.0,VALID,True
+Bidirectional LSTM,Amar,1.0,VALID,True
+Bidirectional LSTM,Aishu,1.0,VALID,True
+Bidirectional LSTM,Asim,1.0,VALID,True
+Bidirectional LSTM,Aatifa,1.0,VALID,False
+Bidirectional LSTM,Manohar,1.0,VALID,True
+Bidirectional LSTM,Pramod,1.0,VALID,True
+Bidirectional LSTM,Ajanta,1.0,VALID,True
+Bidirectional LSTM,Digambar,1.0,VALID,True
+Bidirectional LSTM,Aamrpal,1.0,VALID,False
+Bidirectional LSTM,Abhilekhi,1.0,VALID,False
+Bidirectional LSTM,Jainendrao,1.0,VALID,False
+Bidirectional LSTM,Aarush,1.0,VALID,True
+Bidirectional LSTM,Apeksha,1.0,VALID,True
+Bidirectional LSTM,Durga,1.0,VALID,True
+Bidirectional LSTM,Dhaierati,1.0,VALID,False
+Bidirectional LSTM,Akshat,1.0,VALID,True
+Bidirectional LSTM,Swati,1.0,VALID,True
+Bidirectional LSTM,Anant,1.0,VALID,True
+Bidirectional LSTM,Ramyaan,1.0,VALID,False
+Bidirectional LSTM,Balwapamli,1.0,VALID,False
+Bidirectional LSTM,Kirti,1.0,VALID,True
+Bidirectional LSTM,Durga,1.0,VALID,True
+Bidirectional LSTM,Subhansh,1.0,VALID,False
+Bidirectional LSTM,Avita,1.0,VALID,True
+Bidirectional LSTM,Meerax,1.0,VALID,False
+Bidirectional LSTM,Ajit,1.0,VALID,True
+Bidirectional LSTM,Apoorv,1.0,VALID,True
+Bidirectional LSTM,Rahit,1.0,VALID,True
+Bidirectional LSTM,Amrita,1.0,VALID,True
+Bidirectional LSTM,Ishita,1.0,VALID,True
+Bidirectional LSTM,Dhakrati,1.0,VALID,False
+Bidirectional LSTM,Hal,1.0,VALID,False
+Bidirectional LSTM,Anchita,1.0,VALID,False
+Bidirectional LSTM,Anandha,1.0,VALID,False
+Bidirectional LSTM,Abhay,1.0,VALID,True
+Bidirectional LSTM,Amitafbha,1.0,VALID,False
+Bidirectional LSTM,Yogesh,1.0,VALID,True
+Bidirectional LSTM,Kifal,1.0,VALID,False
+Bidirectional LSTM,Aeer,1.0,VALID,False
+Bidirectional LSTM,Chintan,1.0,VALID,True
+Bidirectional LSTM,Ayash,1.0,VALID,False
+Bidirectional LSTM,Avita,1.0,VALID,True
+Bidirectional LSTM,Aashi,1.0,VALID,True
+Bidirectional LSTM,Anzop,1.0,VALID,False
+Bidirectional LSTM,Jagtar,1.0,VALID,True
+Bidirectional LSTM,Rajesh,1.0,VALID,True
+Bidirectional LSTM,Shivash,1.0,VALID,False
+Bidirectional LSTM,Pazlash,1.0,VALID,False
+Bidirectional LSTM,Brindhaa,1.0,VALID,False
+Bidirectional LSTM,Sunita,1.0,VALID,True
+Bidirectional LSTM,Qrpar,1.0,VALID,False
+Bidirectional LSTM,Chirag,1.0,VALID,True
+Bidirectional LSTM,Pandharitajan,0.75,TOO_LONG,False
+Bidirectional LSTM,Manirqh,1.0,VALID,False
+Bidirectional LSTM,Mohniram,1.0,VALID,False
+Bidirectional LSTM,Telakshmi,0.75,CONSONANT_CLUSTER,False
+Bidirectional LSTM,Architha,1.0,VALID,True
+Bidirectional LSTM,Anirvan,1.0,VALID,True
+Bidirectional LSTM,Ayushman,1.0,VALID,True
+Bidirectional LSTM,Ti,0.75,TOO_SHORT,False
+Bidirectional LSTM,Abhinandha,1.0,VALID,False
+Bidirectional LSTM,Ancchal,0.75,CONSONANT_CLUSTER,False
+Bidirectional LSTM,Gurshgeet,0.75,CONSONANT_CLUSTER,False
+Bidirectional LSTM,Viraj,1.0,VALID,True
+Bidirectional LSTM,Kritika,1.0,VALID,True
+Bidirectional LSTM,Aadhya,1.0,VALID,True
+Bidirectional LSTM,Bhavesh,1.0,VALID,True
+Bidirectional LSTM,Achinandha,1.0,VALID,False
+Bidirectional LSTM,Sharudhang,1.0,VALID,False
+Bidirectional LSTM,Aaashi,0.75,REPETITION,False
+Bidirectional LSTM,Zubanrao,1.0,VALID,False
+Bidirectional LSTM,Manan,1.0,VALID,True
+Bidirectional LSTM,Anirvni,1.0,VALID,False
+Bidirectional LSTM,Dh,0.5,TOO_SHORT,False
+Bidirectional LSTM,Aryaz,1.0,VALID,False
+Bidirectional LSTM,Dharitri,1.0,VALID,True
+Bidirectional LSTM,Anup,1.0,VALID,True
+Bidirectional LSTM,Arjun,1.0,VALID,True
+Bidirectional LSTM,Nitin,1.0,VALID,True
+Bidirectional LSTM,Di,0.75,TOO_SHORT,False
+Bidirectional LSTM,Gitil,1.0,VALID,False
+Bidirectional LSTM,Maikal,1.0,VALID,False
+Bidirectional LSTM,Niraj,1.0,VALID,True
+Bidirectional LSTM,Athmika,1.0,VALID,True
+Bidirectional LSTM,Akjit,1.0,VALID,False
+Bidirectional LSTM,Antra,1.0,VALID,True
+Bidirectional LSTM,Ravikumar,1.0,VALID,True
+Bidirectional LSTM,Umang,1.0,VALID,True
+Bidirectional LSTM,Anup,1.0,VALID,True
+Bidirectional LSTM,Abeer,1.0,VALID,True
+Bidirectional LSTM,Murdhi,1.0,VALID,False
+Bidirectional LSTM,Basu,1.0,VALID,True
+Bidirectional LSTM,Avita,1.0,VALID,True
+Bidirectional LSTM,Aishu,1.0,VALID,True
+Bidirectional LSTM,Asim,1.0,VALID,True
+Bidirectional LSTM,Afprit,1.0,VALID,False
+Bidirectional LSTM,Aatish,1.0,VALID,True
+Bidirectional LSTM,Biswameet,1.0,VALID,False
+Bidirectional LSTM,Avni,1.0,VALID,True
+Bidirectional LSTM,Alpma,1.0,VALID,False
+Bidirectional LSTM,Vasud,1.0,VALID,False
+Bidirectional LSTM,Avadhesh,1.0,VALID,True
+Bidirectional LSTM,Arnika,1.0,VALID,True
+Bidirectional LSTM,Sheetal,1.0,VALID,True
+Bidirectional LSTM,Rashmi,1.0,VALID,True
+Bidirectional LSTM,Ajnita,1.0,VALID,False
+Bidirectional LSTM,Harshat,1.0,VALID,False
+Bidirectional LSTM,Dprikawank,1.0,VALID,False
+Bidirectional LSTM,Chamal,1.0,VALID,False
+Bidirectional LSTM,Avish,1.0,VALID,True
+Bidirectional LSTM,Geeta,1.0,VALID,True
+Bidirectional LSTM,Amrita,1.0,VALID,True
+Bidirectional LSTM,Ambuj,1.0,VALID,True
+Bidirectional LSTM,Lita,1.0,VALID,False
+Bidirectional LSTM,Atanuja,1.0,VALID,False
+Bidirectional LSTM,Asom,1.0,VALID,False
+Bidirectional LSTM,Urvash,1.0,VALID,False
+Bidirectional LSTM,Anvyita,1.0,VALID,False
+Bidirectional LSTM,Manasi,1.0,VALID,True
+Bidirectional LSTM,Arya,1.0,VALID,True
+Bidirectional LSTM,Amitabh,1.0,VALID,True
+Bidirectional LSTM,Amar,1.0,VALID,True
+Bidirectional LSTM,Ajita,1.0,VALID,True
+Bidirectional LSTM,Dhiresh,1.0,VALID,False
+Bidirectional LSTM,Askqraya,0.75,CONSONANT_CLUSTER,False
+Bidirectional LSTM,Ashritha,1.0,VALID,True
+Bidirectional LSTM,Bhavana,1.0,VALID,True
+Bidirectional LSTM,Sadheer,1.0,VALID,False
+Bidirectional LSTM,Kirtxe,1.0,VALID,False
+Bidirectional LSTM,Aarush,1.0,VALID,True
+Bidirectional LSTM,Aavya,1.0,VALID,True
+Bidirectional LSTM,Aniruddha,1.0,VALID,True
+Bidirectional LSTM,Gfpal,1.0,VALID,False
+Bidirectional LSTM,Janhar,1.0,VALID,False
+Bidirectional LSTM,Anup,1.0,VALID,True
+Bidirectional LSTM,Aaradhana,1.0,VALID,True
+Bidirectional LSTM,Asim,1.0,VALID,True
+Bidirectional LSTM,Parul,1.0,VALID,True
+RNN + Attention,Qani,1.0,VALID,False
+RNN + Attention,Bati,1.0,VALID,False
+RNN + Attention,Repaqa,1.0,VALID,False
+RNN + Attention,Aritha,1.0,VALID,False
+RNN + Attention,Boha,1.0,VALID,False
+RNN + Attention,Buka,1.0,VALID,False
+RNN + Attention,Bshita,1.0,VALID,False
+RNN + Attention,Bshaka,1.0,VALID,False
+RNN + Attention,Banivra,1.0,VALID,False
+RNN + Attention,Akaash,1.0,VALID,False
+RNN + Attention,Banye,1.0,VALID,False
+RNN + Attention,Bsidlevito,1.0,VALID,False
+RNN + Attention,Bunita,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Shanesh,1.0,VALID,False
+RNN + Attention,Breteva,1.0,VALID,False
+RNN + Attention,Aaja,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False
+RNN + Attention,Jaja,1.0,VALID,False
+RNN + Attention,Pera,1.0,VALID,False
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Berxedha,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Arita,1.0,VALID,False
+RNN + Attention,Seha,1.0,VALID,False
+RNN + Attention,Eshata,1.0,VALID,False
+RNN + Attention,Anal,1.0,VALID,False
+RNN + Attention,Aara,1.0,VALID,False
+RNN + Attention,Suha,1.0,VALID,False
+RNN + Attention,Bavi,1.0,VALID,False
+RNN + Attention,Buna,1.0,VALID,False
+RNN + Attention,Bana,1.0,VALID,False
+RNN + Attention,Buvi,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Bajata,1.0,VALID,False
+RNN + Attention,Bhanjat,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Esharan,1.0,VALID,False
+RNN + Attention,Bhash,1.0,VALID,False
+RNN + Attention,Bori,1.0,VALID,False
+RNN + Attention,Anita,1.0,VALID,True
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Brish,1.0,VALID,False
+RNN + Attention,Bupa,1.0,VALID,False
+RNN + Attention,Brarata,1.0,VALID,False
+RNN + Attention,Bhesh,1.0,VALID,False
+RNN + Attention,Barat,1.0,VALID,False
+RNN + Attention,Erotoan,1.0,VALID,False
+RNN + Attention,Brisha,1.0,VALID,False
+RNN + Attention,Paniv,1.0,VALID,False
+RNN + Attention,Shanesh,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Anandlaesh,1.0,VALID,False
+RNN + Attention,Esha,1.0,VALID,False
+RNN + Attention,Aaru,1.0,VALID,False
+RNN + Attention,Eraniax,1.0,VALID,False
+RNN + Attention,Aaja,1.0,VALID,False
+RNN + Attention,Bvinde,1.0,VALID,False
+RNN + Attention,Bqrye,0.75,CONSONANT_CLUSTER,False
+RNN + Attention,Aarat,1.0,VALID,False
+RNN + Attention,Barate,1.0,VALID,False
+RNN + Attention,Aridha,1.0,VALID,False
+RNN + Attention,Buvi,1.0,VALID,False
+RNN + Attention,Bragakha,1.0,VALID,False
+RNN + Attention,Aajantaiita,1.0,VALID,False
+RNN + Attention,Banite,1.0,VALID,False
+RNN + Attention,Bh,0.5,TOO_SHORT,False
+RNN + Attention,Sevi,1.0,VALID,False
+RNN + Attention,Pana,1.0,VALID,False
+RNN + Attention,Bhan,1.0,VALID,False
+RNN + Attention,Eshata,1.0,VALID,False
+RNN + Attention,Briveviave,1.0,VALID,False
+RNN + Attention,Prarad,1.0,VALID,False
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Bana,1.0,VALID,False
+RNN + Attention,Bunitn,1.0,VALID,False
+RNN + Attention,Bshauja,1.0,VALID,False
+RNN + Attention,Prfenidt,1.0,VALID,False
+RNN + Attention,Bhan,1.0,VALID,False
+RNN + Attention,Aakiva,1.0,VALID,False
+RNN + Attention,Hajanvata,1.0,VALID,False
+RNN + Attention,Abhaka,1.0,VALID,False
+RNN + Attention,Eanat,1.0,VALID,False
+RNN + Attention,Barieva,1.0,VALID,False
+RNN + Attention,Sara,1.0,VALID,False
+RNN + Attention,Shashaan,1.0,VALID,False
+RNN + Attention,Bhavadet,1.0,VALID,False
+RNN + Attention,Bshata,1.0,VALID,False
+RNN + Attention,Bradha,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Ashlesoka,1.0,VALID,False
+RNN + Attention,Hmate,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Blidhlar,1.0,VALID,False
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Bsha,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Baha,1.0,VALID,False
+RNN + Attention,Bshatosh,1.0,VALID,False
+RNN + Attention,Ajiyegha,1.0,VALID,False
+RNN + Attention,Amaavya,1.0,VALID,False
+RNN + Attention,Ashat,1.0,VALID,False
+RNN + Attention,Aridh,1.0,VALID,False
+RNN + Attention,Beniva,1.0,VALID,False
+RNN + Attention,Brila,1.0,VALID,False
+RNN + Attention,Armata,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Ashak,1.0,VALID,False
+RNN + Attention,Pari,1.0,VALID,False
+RNN + Attention,Bmavad,1.0,VALID,False
+RNN + Attention,Aara,1.0,VALID,False
+RNN + Attention,Buta,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Braveyita,1.0,VALID,False
+RNN + Attention,Btnata,1.0,VALID,False
+RNN + Attention,Buvid,1.0,VALID,False
+RNN + Attention,Bshikeedanida,0.75,TOO_LONG,False
+RNN + Attention,Aarya,1.0,VALID,True
+RNN + Attention,Ashata,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Benivxa,1.0,VALID,False
+RNN + Attention,Lari,1.0,VALID,False
+RNN + Attention,Ethata,1.0,VALID,False
+RNN + Attention,Erad,1.0,VALID,False
+RNN + Attention,Seha,1.0,VALID,False
+RNN + Attention,Barivi,1.0,VALID,False
+RNN + Attention,Seva,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False
+RNN + Attention,Bevnut,1.0,VALID,False
+RNN + Attention,Paki,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Bpirad,1.0,VALID,False
+RNN + Attention,Shanketa,1.0,VALID,False
+RNN + Attention,Burita,1.0,VALID,False
+RNN + Attention,Buizr,1.0,VALID,False
+RNN + Attention,Senita,1.0,VALID,False
+RNN + Attention,Barat,1.0,VALID,False
+RNN + Attention,Beva,1.0,VALID,False
+RNN + Attention,Ashrara,1.0,VALID,False
+RNN + Attention,Brivehad,1.0,VALID,False
+RNN + Attention,Sahita,1.0,VALID,False
+RNN + Attention,Ashita,1.0,VALID,False
+RNN + Attention,Bmesh,1.0,VALID,False
+RNN + Attention,Ashav,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False
+RNN + Attention,Ajirepat,1.0,VALID,False
+RNN + Attention,Adhyetara,1.0,VALID,False
+RNN + Attention,Ashak,1.0,VALID,False
+RNN + Attention,Brish,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Bhakodha,1.0,VALID,False
+RNN + Attention,Abhata,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Bhrata,1.0,VALID,False
+RNN + Attention,Brainaji,1.0,VALID,False
+RNN + Attention,Benivi,1.0,VALID,False
+RNN + Attention,Asha,1.0,VALID,True
+RNN + Attention,Bara,1.0,VALID,False
+RNN + Attention,Eshi,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Bshiki,1.0,VALID,False
+RNN + Attention,Butneja,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Asha,1.0,VALID,True
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Paha,1.0,VALID,False
+RNN + Attention,Adhan,1.0,VALID,False
+RNN + Attention,Jara,1.0,VALID,False
+RNN + Attention,Seva,1.0,VALID,False
+RNN + Attention,Bhika,1.0,VALID,False
+RNN + Attention,Aryata,1.0,VALID,False
+RNN + Attention,Buna,1.0,VALID,False
+RNN + Attention,Sahi,1.0,VALID,False
+RNN + Attention,Adhata,1.0,VALID,False
+RNN + Attention,Lari,1.0,VALID,False
+RNN + Attention,Bevavida,1.0,VALID,False
+RNN + Attention,Pera,1.0,VALID,False
+RNN + Attention,Ebhanada,1.0,VALID,False
+RNN + Attention,Adhita,1.0,VALID,False
+RNN + Attention,Baka,1.0,VALID,False
+RNN + Attention,Shish,1.0,VALID,False
+RNN + Attention,Betre,1.0,VALID,False
+RNN + Attention,Bbhaki,1.0,VALID,False
+RNN + Attention,Brash,1.0,VALID,False
+RNN + Attention,Bminad,1.0,VALID,False
+RNN + Attention,Bunya,1.0,VALID,False
+RNN + Attention,Ashar,1.0,VALID,False
+RNN + Attention,Buvi,1.0,VALID,False
+RNN + Attention,Blash,1.0,VALID,False
+RNN + Attention,Bshadi,1.0,VALID,False
+RNN + Attention,Bavanda,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Bhretaw,1.0,VALID,False
+RNN + Attention,Binesh,1.0,VALID,False
+RNN + Attention,Buja,1.0,VALID,False
+RNN + Attention,Bbrita,1.0,VALID,False
+RNN + Attention,Bani,1.0,VALID,False
+RNN + Attention,Meri,1.0,VALID,False
+RNN + Attention,Sari,1.0,VALID,False
+RNN + Attention,Esha,1.0,VALID,False
+RNN + Attention,Asha,1.0,VALID,True
+RNN + Attention,Amota,1.0,VALID,False
+RNN + Attention,Bshita,1.0,VALID,False
+RNN + Attention,Gepa,1.0,VALID,False
+RNN + Attention,Bhush,1.0,VALID,False
+RNN + Attention,Apaishad,1.0,VALID,False
+RNN + Attention,Brnata,1.0,VALID,False
+RNN + Attention,Ashrara,1.0,VALID,False
+RNN + Attention,Bari,1.0,VALID,False
+RNN + Attention,Bhannat,1.0,VALID,False
+RNN + Attention,Berixa,1.0,VALID,False
+RNN + Attention,Eanita,1.0,VALID,False
+RNN + Attention,Bura,1.0,VALID,False
+RNN + Attention,Bhanra,1.0,VALID,False
+RNN + Attention,Burm,1.0,VALID,False
+RNN + Attention,Baka,1.0,VALID,False
+RNN + Attention,Sevmara,1.0,VALID,False
+RNN + Attention,Bhreta,1.0,VALID,False
+RNN + Attention,Akshathat,1.0,VALID,False
+RNN + Attention,Baka,1.0,VALID,False
+RNN + Attention,Suka,1.0,VALID,False
+RNN + Attention,Sani,1.0,VALID,False
+RNN + Attention,Baja,1.0,VALID,False
+RNN + Attention,Avat,1.0,VALID,False
+RNN + Attention,Ashata,1.0,VALID,False
+RNN + Attention,Bhashak,1.0,VALID,False
+RNN + Attention,Berxuri,1.0,VALID,False
+RNN + Attention,Shish,1.0,VALID,False
+RNN + Attention,Behi,1.0,VALID,False
+RNN + Attention,Bena,1.0,VALID,False
+RNN + Attention,Lran,1.0,VALID,False
+RNN + Attention,Bevi,1.0,VALID,False
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Mara,1.0,VALID,False
+RNN + Attention,Arir,1.0,VALID,False
+RNN + Attention,Seviv,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Laja,1.0,VALID,False
+RNN + Attention,Buni,1.0,VALID,False
+RNN + Attention,Eshika,1.0,VALID,False
+RNN + Attention,Adhsaji,1.0,VALID,False
+RNN + Attention,Bhindesaj,1.0,VALID,False
+RNN + Attention,Bhavad,1.0,VALID,False
+RNN + Attention,Beriviv,1.0,VALID,False
+RNN + Attention,Adhata,1.0,VALID,False
+RNN + Attention,Bhinna,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False
+RNN + Attention,Anita,1.0,VALID,True
+RNN + Attention,Bhika,1.0,VALID,False
+RNN + Attention,Earada,1.0,VALID,False
+RNN + Attention,Buvi,1.0,VALID,False
+RNN + Attention,Jchaja,1.0,VALID,False
+RNN + Attention,Bresh,1.0,VALID,False
+RNN + Attention,Burita,1.0,VALID,False
+RNN + Attention,Baka,1.0,VALID,False
+RNN + Attention,Buja,1.0,VALID,False
+RNN + Attention,Bshanesh,1.0,VALID,False
+RNN + Attention,Beri,1.0,VALID,False
+RNN + Attention,Errata,1.0,VALID,False
+RNN + Attention,Brish,1.0,VALID,False
+RNN + Attention,Barava,1.0,VALID,False
+RNN + Attention,Eshita,1.0,VALID,True
+RNN + Attention,Bmanesh,1.0,VALID,False
+RNN + Attention,Budi,1.0,VALID,False
+RNN + Attention,Barida,1.0,VALID,False
+RNN + Attention,Anshethaki,1.0,VALID,False
+RNN + Attention,Sshika,1.0,VALID,False
+RNN + Attention,Bshaura,1.0,VALID,False
+RNN + Attention,Bridhefha,1.0,VALID,False
+RNN + Attention,Hari,1.0,VALID,False
+RNN + Attention,Bsha,1.0,VALID,False
+RNN + Attention,Bbryadi,0.75,CONSONANT_CLUSTER,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Barad,1.0,VALID,False
+RNN + Attention,Bava,1.0,VALID,False
+RNN + Attention,Bnavein,1.0,VALID,False
+RNN + Attention,Sshira,1.0,VALID,False
+RNN + Attention,Bevida,1.0,VALID,False
+RNN + Attention,Butak,1.0,VALID,False
+RNN + Attention,Beryari,1.0,VALID,False
+RNN + Attention,Sara,1.0,VALID,False
+RNN + Attention,Sava,1.0,VALID,False
+RNN + Attention,Bavithan,1.0,VALID,False
+RNN + Attention,Brish,1.0,VALID,False
+RNN + Attention,Jani,1.0,VALID,False
+RNN + Attention,Bhay,1.0,VALID,False
+RNN + Attention,Bshata,1.0,VALID,False
+RNN + Attention,Bera,1.0,VALID,False
+RNN + Attention,Buri,1.0,VALID,False

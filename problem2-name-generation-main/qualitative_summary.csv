@@ -1,0 +1,4 @@
+Model,Avg Realism Score,Perfect Realism %,Valid Names %
+Vanilla RNN,0.9983,99.33,99.33
+Bidirectional LSTM,0.9917,97.0,97.0
+RNN + Attention,0.9958,98.67,98.67

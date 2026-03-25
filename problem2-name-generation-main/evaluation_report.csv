@@ -1,0 +1,4 @@
+Model,Generated,Unique Names,Novelty Rate %,Diversity %,Avg Name Length
+Vanilla RNN,500,455,96.2,91.0,5.79
+Bidirectional LSTM,500,415,38.2,83.0,6.31
+RNN + Attention,500,354,97.4,70.8,5.25
